@@ -1,4 +1,4 @@
-# *** PROYECT *** #
+# *** PROJECT *** #
 library(dplyr)
 
 features <- read.table("UCI HAR Dataset/features.txt", col.names = c("n","functions"))
